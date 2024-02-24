@@ -1,6 +1,6 @@
 # Metal Cluster
 
-A brief description of your metal cluster project.
+This repo contains code for a research project on raw materials. Based on different prices and quantity materials are clustered. The data we used was collected from different industries in Bangladesh. We used data of imported goods from 2017 to 2021.
 
 ## Table of Contents
 
