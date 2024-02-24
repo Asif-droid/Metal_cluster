@@ -1,6 +1,6 @@
 # Metal Cluster
 
-A brief description of your metal cluster project.
+This repo contains code for a research projec. we Used raw material import data form 2017 to 2021 and on different prices and quantities we made a cluster of these metals. We used K-means and Gaussian mixure model here.
 
 ## Table of Contents
 
